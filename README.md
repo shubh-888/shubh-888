@@ -68,15 +68,6 @@ Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer
 * Integrated Firebase Realtime Database for secure data management.
 * Visualized emission insights using interactive dashboards with Chart.js.
 
-### 🔹 AI Meeting Assistant
-
-**Tech Stack:** Python, Streamlit, Whisper, Ollama, FAISS
-
-* Converts meeting recordings into searchable transcripts.
-* Generates concise summaries and action items automatically.
-* Supports semantic search across meeting discussions.
-* Improves productivity through AI-powered meeting insights.
-
 ---
 
 ## 📈 Coding Achievements
